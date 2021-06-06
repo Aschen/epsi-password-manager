@@ -45,9 +45,12 @@ A document should explain the process of
   - securing the server
 
 ## Bonus
+
 Managing your own passwords is good, but managing team passwords is better!
 
 Transform the manager so that he can manage team passwords.
+
+Using Kuzzle.
 
 ## Appendices
 
