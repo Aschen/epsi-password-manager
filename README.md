@@ -88,8 +88,8 @@ https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-fro
 
 ### DevOps / SecOps
 
-https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
-https://www.ssllabs.com/ssltest/
-https://www.logsign.com/blog/best-practices-for-security-in-ssh/
-https://www.acunetix.com/blog/web-security-zone/hardening-nginx/
-https://docs.kuzzle.io/core/2/guides/getting-started/deploy-your-application/ 
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04  
+https://www.ssllabs.com/ssltest/  
+https://www.logsign.com/blog/best-practices-for-security-in-ssh/  
+https://www.acunetix.com/blog/web-security-zone/hardening-nginx/  
+https://docs.kuzzle.io/core/2/guides/getting-started/deploy-your-application/   
