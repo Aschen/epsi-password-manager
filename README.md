@@ -10,7 +10,7 @@ Deploy this software on a server with a CI / CD.
 
 ## Constraints
 
-All development will be done on Github.
+All development will be done on Github by forking this repository.
 
 Passwords must be stored securely:
  - database compromise must not lead to the compromise of passwords
