@@ -57,11 +57,11 @@ _Some resources to help you_
 
 _Don't loose time developping an API, there is very few backend business logic in this project._
 
-https://docs.kuzzle.io/core/2/guides/getting-started/run-kuzzle/
-https://docs.kuzzle.io/core/2/guides/getting-started/write-application/
-https://docs.kuzzle.io/core/2/guides/main-concepts/data-storage/
-https://docs.kuzzle.io/sdk/js/7/getting-started/node-js/
-https://docs.kuzzle.io/sdk/js/7/controllers/document/create/
+https://docs.kuzzle.io/core/2/guides/getting-started/run-kuzzle/  
+https://docs.kuzzle.io/core/2/guides/getting-started/write-application/  
+https://docs.kuzzle.io/core/2/guides/main-concepts/data-storage/  
+https://docs.kuzzle.io/sdk/js/7/getting-started/node-js/  
+https://docs.kuzzle.io/sdk/js/7/controllers/document/create/  
 
 ### Javascript
 
