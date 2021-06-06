@@ -50,6 +50,8 @@ Managing your own passwords is good, but managing team passwords is better!
 
 Transform the manager so that he can manage team passwords.
 
+Allow file sharing: use of a hybrid cryptosystem.
+
 Using Kuzzle.
 
 ## Appendices
