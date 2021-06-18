@@ -1,3 +1,5 @@
+# NonStopIntegration - Aboulinc / Chambon / Djilali Saiah / Poirot
+
 # EPSI Password Manager
 
 EPM (EPSI Password Manager) is a project to apply cryptographic concepts in an application to build a secure password manager.
